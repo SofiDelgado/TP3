@@ -1,4 +1,4 @@
-# TP2 Javascript
+# TP3 Javascript
 * Trabajo práctico número 3 - arrays y funciones
 # Autor
 * Delgado Sofía 
